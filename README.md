@@ -32,9 +32,9 @@ Nesta Calculadora Javascript foram utilizadas as seguintes tecnologias
 
 ### ✈️ Como acessar o Jogo
 
-Hospedado no Netlify
+Hospedado na Vercel
 
-https://mata-mosquito-gsj.netlify.app/
+https://orange-finances-gsj.vercel.app/
 
 Ou então 
 
@@ -45,3 +45,5 @@ Faça o download do repositório e execute index.html
 ### 📃 Licença
 
 Este projeto está sobre a licença <a href="https://github.com/GilbertoASJ/Orange-finances/blob/main/LICENSE">MIT</a>
+
+

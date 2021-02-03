@@ -30,7 +30,7 @@ Nesta Calculadora Javascript foram utilizadas as seguintes tecnologias
 - [CSS](https://www.w3schools.com/css/)
 - [JavaScript](https://www.w3schools.com/js/)
 
-### ✈️ Como acessar o Jogo
+### ✈️ Como acessar o Aplicativo 
 
 Hospedado na Vercel
 
@@ -45,5 +45,3 @@ Faça o download do repositório e execute index.html
 ### 📃 Licença
 
 Este projeto está sobre a licença <a href="https://github.com/GilbertoASJ/Orange-finances/blob/main/LICENSE">MIT</a>
-
-

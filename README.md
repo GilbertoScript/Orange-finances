@@ -29,3 +29,19 @@ Nesta Calculadora Javascript foram utilizadas as seguintes tecnologias
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/)
 - [JavaScript](https://www.w3schools.com/js/)
+
+### ✈️ Como acessar o Jogo
+
+Hospedado no Netlify
+
+https://mata-mosquito-gsj.netlify.app/
+
+Ou então 
+
+```
+Faça o download do repositório e execute index.html
+```
+
+### 📃 Licença
+
+Este projeto está sobre a licença <a href="https://github.com/GilbertoASJ/Mata-mosquito/blob/main/LICENSE">MIT</a>

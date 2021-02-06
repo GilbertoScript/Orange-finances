@@ -25,7 +25,7 @@ Depois de fazer o 'merge' de seu pull request, você pode excluir seu branch.
 
 ### 💻 Tecnologias utilizadas
 
-Nesta Calculadora Javascript foram utilizadas as seguintes tecnologias
+Neste Aplicativo de Finanças foram utilizadas as seguintes tecnologias
 
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/)

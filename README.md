@@ -14,13 +14,14 @@ Neste aplicativo, foi utilizado o localStorage, uma funcionalidade do JavaScript
 
 <hr>
 
-### 🔥 Como contribuir
+## 🔥 Como contribuir
 
-```
-Fork este respositório
-Faça as mudanças
-Abra um pull request
-```
+1. Fork este repositório;
+2. Crie uma branch com sua feature: ** `git checkout -b my-feature` **;
+3. Faça commit de suas mudanças: ** `git commit -m 'feat: My new feature'` **;
+4. Envie para a branch: ** `git push origin my-feature` **.
+
+Depois de fazer o 'merge' de seu pull request, você pode excluir seu branch.
 
 ### 💻 Tecnologias utilizadas
 

@@ -14,7 +14,7 @@ Neste aplicativo, foi utilizado o localStorage, uma funcionalidade do JavaScript
 
 <hr>
 
-## 🔥 Como contribuir
+### 🔥 Como contribuir
 
 1. Fork este repositório;
 2. Crie uma branch com sua feature: ** `git checkout -b my-feature` **;

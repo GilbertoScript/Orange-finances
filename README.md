@@ -11,6 +11,7 @@ O aplicativo consiste em gerenciar suas finanças de forma rápida e simples, co
 ### 🎨 Detalhe
 
 Neste aplicativo, foi utilizado o localStorage, uma funcionalidade do JavaScript para o armazenamento de dados localmente no navegador do usuário.
+Há responsividade.
 
 <hr>
 

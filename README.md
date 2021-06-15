@@ -1,49 +1,108 @@
-<h1 align="center">Orange finances</h1>
-<h1 align="center"><img src="./assets/Orange-finances-home.PNG"></h1>
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/GilbertoASJ/Orange-finances/">
+    <img 
+      src="/assets/Orange-finances-logo.PNG" 
+      alt="Logo Orange finances"
+    >
+  </a>
+
+  <h2 align="center">Orange finances</h2>
+
+  <p align="center">
+    Orange finances - um aplicativo de finanças, armazene suas transações localmente no navegador e tenha o cálculo final das transações.
+    <br />
+    <a href="https://github.com/GilbertoASJ/Orange-finances"><strong>Explore os arquivos »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/GilbertoASJ/Orange-finances">Ver Demo</a>
+    ·
+    <a href="https://github.com/GilbertoASJ/Orange-finances/issues">Reportar Bug</a>
+    ·
+    <a href="https://github.com/GilbertoASJ/Orange-finances/issues">Implementar Feature</a>
+  </p>
+</p>
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Lista de conteúdo</summary>
+  <ol>
+    <li>
+      <a href="#Sobre-o-projeto">Sobre o projeto</a>
+      <ul>
+        <li><a href="#Construido-com">Construido com</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#Como-usar">Como usar</a>
+      <ul>
+        <li><a href="#Pré-requisitos">Pré-requisitos</a></li>
+        <li><a href="#Instalação">Instalação</a></li>
+      </ul>
+    </li>
+    <li><a href="#Contribuindo">Contribuindo</a></li>
+    <li><a href="#Licença">Licença</a></li>
+    <li><a href="#Reconhecimentos">Reconhecimentos</a></li>
+  </ol>
+</details>
+
+<!-- ABOUT THE PROJECT -->
+## Sobre o projeto
 
 <hr>
-
-### 📚 Sobre
-
-Orange finances, é a minha versão para o aplicativo dev.finances, desenvolvido durante a Maratona Discover, realizada pela Rocketseat.
-O aplicativo consiste em gerenciar suas finanças de forma rápida e simples, com um sistema de cálculo das transações realizadas pelo usuário.
-
-### 🎨 Detalhe
-
-Neste aplicativo, foi utilizado o localStorage, uma funcionalidade do JavaScript para o armazenamento de dados localmente no navegador do usuário.
-Há responsividade.
-
+<img src="./assets/Orange-finances-home.PNG" alt="Orange finances - Home">
 <hr>
 
-### 🔥 Como contribuir
+Orange finances, é a minha versão para o aplicativo dev.finances, desenvolvido durante a Maratona Discover, realizada pela Rocketseat. O aplicativo consiste em gerenciar suas finanças de forma rápida e simples, com um sistema de cálculo das transações realizadas pelo usuário, há responsividade.
 
-1. Fork este repositório;
-2. Crie uma branch com sua feature: ** `git checkout -b my-feature` **;
-3. Faça commit de suas mudanças: ** `git commit -m 'feat: My new feature'` **;
-4. Envie para a branch: ** `git push origin my-feature` **.
+Alguns dos assuntos aprendidos e abordados durante a construção do projeto foram: localStorage, uma funcionalidade do JavaScript para o armazenamento de dados localmente no navegador do usuário, etc.
 
-Depois de fazer o 'merge' de seu pull request, você pode excluir seu branch.
 
-### 💻 Tecnologias utilizadas
+### Construido com
 
-Neste Aplicativo de Finanças foram utilizadas as seguintes tecnologias
+As tecnologias usadas nesse projeto foram:
+* [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/HTML5)
+* [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/)
 
-- [HTML](https://www.w3schools.com/html/)
-- [CSS](https://www.w3schools.com/css/)
-- [JavaScript](https://www.w3schools.com/js/)
+<!-- GETTING STARTED -->
+## Como usar
 
-### ✈️ Como acessar o Aplicativo 
+Este é um exemplo de como você pode dar instruções sobre como configurar seu projeto localmente. Para obter uma cópia local instalada e funcionando, siga estas etapas simples de exemplo.
 
-Hospedado na Vercel
+### Pré-requisitos
 
-https://orange-finances-gsj.vercel.app/
+``` Git, porém não é obrigatório, caso não queira fazer a instação via git, faça o download do repositório ```
 
-Ou então 
+### Instalação
 
 ```
-Faça o download do repositório e execute index.html
+# Clone este repositório
+$ git clone https://github.com/GilbertoASJ/Orange-finances.git
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd Orange finances
+
+# Abra index.html no navegador e veja o projeto rodar
 ```
 
-### 📃 Licença
 
-Este projeto está sobre a licença <a href="https://github.com/GilbertoASJ/Orange-finances/blob/main/LICENSE">MIT</a>
+<!-- CONTRIBUTING -->
+## Contribuindo
+
+As contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Quaisquer contribuições que você fizer são ** muito apreciadas **.
+
+1. Faça um fork do projeto
+2. Crie seu Feature Branch (`git checkout -b feature / AmazingFeature`)
+3. Faça commit de suas alterações (`git commit -m 'Add some AmazingFeature'`)
+4. Envie para o Branch (`git push origin feature / AmazingFeature`)
+5. Abra um pull request
+
+
+<!-- LICENSE -->
+## Licença
+
+Distribuído sob a licença MIT. Veja `LICENSE` para obter mais informações.

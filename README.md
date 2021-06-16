@@ -3,8 +3,10 @@
 <p align="center">
   <a href="https://github.com/GilbertoASJ/Orange-finances/">
     <img 
-      src="/assets/Orange-finances-logo.PNG" 
+      src="https://orange-finances-gsj.vercel.app/assets/orange.png" 
       alt="Logo Orange finances"
+      width="100"
+      height="100"
     >
   </a>
 
